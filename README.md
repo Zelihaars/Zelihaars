@@ -7,7 +7,7 @@
   
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> Ayrıca, takım çalışması ve iletişim becerilerim sayesinde projelerdeki işbirliğini destekleyebiliyorum </em>
 
-<img align="center" width="300px" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl.gif"/>
+<img align="center" width="300px" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl2.gif"/>
  <br/>
  
  
