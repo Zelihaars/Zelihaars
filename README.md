@@ -9,6 +9,8 @@
 
 <img align="center" width="300px" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl.gif"/>
  <br/>
+ 
+ 
 ## Hakkımda  :computer: 
 - **Makine Öğrenmesi** 
 	- Python ❤️
