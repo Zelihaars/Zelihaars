@@ -10,7 +10,9 @@
 	- Python ❤️
 	- Java ⭐
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+<img align="right" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl.gif"/>
+
 
 - **Web Programlama**
 	- HTML, CSS ve Javascript :white_check_mark:
