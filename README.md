@@ -3,9 +3,11 @@
   
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/> Kendimi sürekli olarak geliştirmek ve yeni teknolojileri öğrenmek için azimli bir çalışma disiplinine sahibim.  
 	
-<img align="center" width="300px" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl.gif"/>
+
   
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> Ayrıca, takım çalışması ve iletişim becerilerim sayesinde projelerdeki işbirliğini destekleyebiliyorum </em>
+
+<img align="center" width="300px" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl.gif"/>
  <br/>
 ## Hakkımda  :computer: 
 - **Makine Öğrenmesi** 
