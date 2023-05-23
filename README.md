@@ -11,7 +11,7 @@
 	- Java ⭐
 
 
-<img align="right" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl.gif"/>
+<img align="right" width="400px" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl.gif"/>
 
 
 - **Web Programlama**
