@@ -1,4 +1,4 @@
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Merhaba &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Merhaba &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">  &nbsp; Ben Zeliha Arslan
 <em><b>Fırat Üniversitesi</b> Yazılım Mühendisliği son sınıf öğrencisiyim. 
   
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/> Kendimi sürekli olarak geliştirmek ve yeni teknolojileri öğrenmek için azimli bir çalışma disiplinine sahibim.  
