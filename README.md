@@ -13,18 +13,18 @@
  
 ## Hakkımda  :computer: 
 - **Makine Öğrenmesi** 
-	- Python ❤️
-	- Java ⭐
-
-
-
+	- Python 📘
+	- Java 🔸
 
 - **Web Programlama**
-	- HTML, CSS ve Javascript :white_check_mark:
-	- Bootstrap
-  - Php - Laravel<br/>
-  <br/>
+	- HTML, CSS ve Javascript 🍏
+	- Bootstrap  💛:
+  - Php - Laravel  🔴
 
+- **Mobil Programlama**
+	- Flutter 💙
+	<br/>
+  <br/>
 
 
 
